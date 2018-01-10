@@ -1,8 +1,8 @@
 ## Ignore npm build dirs
 
 # User-specific files
-#*.suo
-
+*.log
+package-lock.json
 
 backup/
 dist/
