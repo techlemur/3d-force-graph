@@ -4,8 +4,6 @@
 *.log
 package-lock.json
 
-#test
-
 backup/
 dist/
 node_modules/
