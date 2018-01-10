@@ -1,0 +1,9 @@
+## Ignore npm build dirs
+
+# User-specific files
+#*.suo
+
+
+backup/
+dist/
+node_modules/
